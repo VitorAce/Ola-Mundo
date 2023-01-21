@@ -1,2 +1,2 @@
-# Ola Mundo
- Meu primeiro repositório de Git e GitHib
+# Olá, Mundo!
+Meu primeiro repositório do curso de Git e GitHib
