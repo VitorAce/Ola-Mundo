@@ -1,4 +1,4 @@
 # Olá, Mundo!
 Meu primeiro repositório do curso de Git e GitHib
 
-Repositório criado durante uma aula ao vivo
+Repositório criado durante uma aula ao vivo do Gustavo Guanabara
